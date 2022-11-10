@@ -7,3 +7,10 @@
 🏔️ I am also passionate about playing turntables, space, and mountaineering.
 
 🏗️ I previously worked on CrateDB Cloud at [Crate.io](https://crate.io) and now work on [Loki](https://github.com/grafana/loki) at [Grafana Labs](https://grafana.com).
+
+#### Links
+<ul>
+  <li><a rel="me" href="https://foostodon.org/@chaudum">@chaudum@fosstodon.org</a></li>
+  <li><a rel="me" href="https://linkedin.com/in/christianhaudum">LinkedIn</a></li>
+  <li><a rel="me" href="https://haudum.dev">haudum.dev</a></li>
+</ul>
