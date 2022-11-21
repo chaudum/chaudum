@@ -10,7 +10,7 @@
 
 #### Links
 <ul>
-  <li><a rel="me" href="https://foostodon.org/@chaudum">@chaudum@fosstodon.org</a></li>
+  <li><a rel="me" href="https://fosstodon.org/@chaudum">@chaudum@fosstodon.org</a></li>
   <li><a rel="me" href="https://linkedin.com/in/christianhaudum">LinkedIn</a></li>
   <li><a rel="me" href="https://haudum.dev">haudum.dev</a></li>
 </ul>
